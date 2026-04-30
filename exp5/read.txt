@@ -1,0 +1,5 @@
+npx create-react-app exp5
+cd exp4
+npm start
+
+paste App.js in src/App.js
